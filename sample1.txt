@@ -3,3 +3,5 @@ THIS IS SAMPLE1
 def shamp()
   print("ssss")
 
+def cherrypick():
+	print("pick pick print cherry")
