@@ -1,4 +1,10 @@
 THIS IS SAMPLE1
 
+<<<<<<< HEAD
 def shamp()
   print("ssss")
+=======
+
+def cherrypick():
+	print("print cherry")
+>>>>>>> 525da0d... my cherry pick
