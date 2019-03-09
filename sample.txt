@@ -9,7 +9,7 @@ def add(x,y):
 def sub(x,y):
 	print(""sub)
 
-def mulxy(x,y):
+def mul(x,y):
 	print("multiply")
 
 
