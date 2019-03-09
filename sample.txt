@@ -1,5 +1,5 @@
 ONE
-FIVE -- This is 5
+FIVE
 NINE
 TEN
 
