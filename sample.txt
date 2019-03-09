@@ -11,3 +11,7 @@ def sub(x,y):
 
 def mul(x,y):
 	print("multiply")
+
+
+def div(x,y):
+	print("divide")
