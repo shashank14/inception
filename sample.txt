@@ -1,4 +1,4 @@
-def fd(x,y):
+def fdDEE(x,y):
 	print("print fd")
 
 ONE
