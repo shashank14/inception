@@ -9,9 +9,9 @@ def add(x,y):
 def sub(x,y):
 	print(""sub)
 
-def mul(x,y):
+def mulxy(x,y):
 	print("multiply")
 
 
-def div(x,y):
+def divxy(x,y):
 	print("divide")
