@@ -2,4 +2,4 @@ THIS IS SAMPLE1
 
 
 def cherrypick():
-	print("print cherry")
+	print("pick print cherry")
