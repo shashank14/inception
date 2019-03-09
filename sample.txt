@@ -1,3 +1,2 @@
-ONE 
-
-TWO
+def added(x,y):
+	print("ADEDDD")
