@@ -1,8 +1,8 @@
-def fd(x,y):
+def fdDEE(x,y):
 	print("print fd")
 
 ONE
-FIVE -- This is 5
+FIVE
 NINE
 TEN
 
@@ -18,3 +18,5 @@ def mul(x,y):
 
 def divxy(x,y):
 	print("divide")
+
+THIS IS  NEW LINE
