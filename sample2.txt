@@ -1,3 +1,6 @@
 NINE 
 
 TEN
+
+def adder(x,y):
+	print("hahah")
