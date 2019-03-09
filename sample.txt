@@ -1,3 +1,17 @@
-ONE 
+ONE
+FIVE -- This is 5
+NINE
+TEN
 
-TWO
+def add(x,y):
+	print(x,y)
+
+def sub(x,y):
+	print(""sub)
+
+def mul(x,y):
+	print("multiply")
+
+
+def divxy(x,y):
+	print("divide")
