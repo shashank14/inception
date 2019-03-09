@@ -13,5 +13,5 @@ def mul(x,y):
 	print("multiply")
 
 
-def divxy(x,y):
+def div(x,y):
 	print("divide")
