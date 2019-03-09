@@ -8,3 +8,10 @@ def add(x,y):
 
 def sub(x,y):
 	print(""sub)
+
+def mul(x,y):
+	print("multiply")
+
+
+def div(x,y):
+	print("divide")
